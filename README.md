@@ -1,6 +1,8 @@
 # spring-boot-web-demo
 Spring Boot Rest API demo
 
-Maven: Run with mvn spring-boot:run -DskipTests
+Run with Maven: 
 
-Access service on localhost:8080
+    mvn spring-boot:run -DskipTests
+
+Access service using a browsser at _localhost:8080_
